@@ -3,7 +3,7 @@ import random
 
 class hanniAI(object):
     def name(self):
-        return 'hanni094'
+        return 'hanniAI'
 
     def play(self, board, color):
         while True:
